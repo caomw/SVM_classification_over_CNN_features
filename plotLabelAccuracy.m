@@ -1,5 +1,5 @@
 % -------------------------------------------------------------------------
-% This file plots the label wise accuracy 
+% This function plots the label wise accuracy 
 % Author : Sukrit Shankar 
 % -------------------------------------------------------------------------
 function plotLabelAccuracy(tags,styleString,...
