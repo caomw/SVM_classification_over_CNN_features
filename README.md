@@ -1,4 +1,4 @@
-# metail_SVM_classification_over_CNN_features
+# SVM_classification_over_CNN_features
 **SVM One-vs-All Classification with CNN features** 
 
 -----------------------------------------------------------
